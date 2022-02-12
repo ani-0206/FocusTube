@@ -1,4 +1,3 @@
 # FocusTube
 Hello
-Dear
 Everyone
